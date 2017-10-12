@@ -29,4 +29,6 @@ mod 'profile',
   :git => 'https://github.com/vamsilnm/puppet-profile1.git',
   :ref => 'master'
 
+mod "puppet/selinux", '0.8.0'
+mod "garethr/docker", '5.3.0'
 
